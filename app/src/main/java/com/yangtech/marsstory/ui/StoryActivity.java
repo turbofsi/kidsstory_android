@@ -23,7 +23,7 @@ public class StoryActivity extends ActionBarActivity {
             name = "Friend";
         }
 
-        
+
     }
 
 

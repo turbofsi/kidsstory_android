@@ -3,7 +3,6 @@ package com.yangtech.marsstory.ui;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
-import android.widget.Toast;
 
 import com.yangtech.marsstory.R;
 
@@ -24,7 +23,7 @@ public class StoryActivity extends ActionBarActivity {
             name = "Friend";
         }
 
-        Toast.makeText(this, name, Toast.LENGTH_LONG).show();
+        
     }
 
 

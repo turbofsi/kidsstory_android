@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mars Story</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_image_str">This is the title image for signal from Mar!</string>
+    <string name="mainEdit_hint">Enter your name to proceed</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="main_key_name">name</string>
+
+</resources>

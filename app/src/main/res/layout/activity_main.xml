@@ -2,7 +2,8 @@
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:id="@+id/MainController">
+    android:id="@+id/MainController"
+    android:background="@android:color/white">
 
     <ImageView
         android:layout_width="match_parent"
@@ -24,7 +25,9 @@
         android:id="@+id/startButton"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:background="@android:color/white"
+        android:textColor="#FF3498db" />
 
     <EditText
         android:layout_width="match_parent"
